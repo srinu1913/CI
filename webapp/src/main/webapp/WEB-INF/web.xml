@@ -3,5 +3,5 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
-  <display-name>hello welome to formac</display-name>
+  <display-name>hello welome to formac "FORMAC"</display-name>
 </web-app>
